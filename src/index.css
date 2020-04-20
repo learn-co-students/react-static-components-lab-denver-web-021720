@@ -29,6 +29,10 @@ html,
 	background-color: #000;
 }
 
+#einstein {
+	background-color: lightgreen;
+}
+
 #hopper {
 	background-color: #dd0000;
 }
